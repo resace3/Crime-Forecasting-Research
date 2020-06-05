@@ -1,3 +1,3 @@
 # Crime-Forecasting-Research
 
-The following codes includes crime forecasting techniques that are being used for my research.
+The following scripts includes crime forecasting techniques that are being used for my research.
